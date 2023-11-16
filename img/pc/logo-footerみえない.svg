@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="212.541" height="27" viewBox="0 0 212.541 27">
+  <g id="ロゴ" transform="translate(-91.459 -29)">
+    <text id="Tech_Corporate" data-name="Tech Corporate" transform="translate(120 50)" fill="#fff" font-size="24" font-family="HiraMaruProN-W4, Hiragino Maru Gothic ProN"><tspan x="0" y="0">Tech Corporate</tspan></text>
+    <path id="Icon_material-supervisor-account" data-name="Icon material-supervisor-account" d="M19.409,15.288a2.782,2.782,0,1,0-2.829-2.782A2.8,2.8,0,0,0,19.409,15.288Zm-8.487-1.113a3.338,3.338,0,1,0-3.395-3.338A3.353,3.353,0,0,0,10.922,14.176Zm8.487,3.338c-2.071,0-6.224,1.024-6.224,3.06v2.5H25.633v-2.5C25.633,18.537,21.48,17.514,19.409,17.514ZM10.922,16.4C8.285,16.4,3,17.7,3,20.3v2.782h7.922v-2.5c0-.946.373-2.6,2.682-3.861A14.127,14.127,0,0,0,10.922,16.4Z" transform="translate(88.459 25.45)" fill="#fff"/>
+  </g>
+</svg>
